@@ -21,14 +21,13 @@
 ---
 
 ### 🔧 Tech Stack  
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,html,css,dart" /><br>
-  <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,flutter,nodejs,express,figma" /><br>
-  <!-- Cloud & ML -->
-  <img src="https://skillicons.dev/icons?i=aws,mysql,git,tensorflow,pytorch" />
-</p>
+
+**Languages:** Python, JavaScript (ES6+), TypeScript, Java, Dart, HTML, CSS  
+**Frameworks & Libraries:** React, Flutter, Node.js, Express.js, Figma  
+**Databases:** MySQL, Firebase  
+**Cloud & DevOps:** AWS (Lambda, S3, RDS, Cognito, Rekognition), Git, Vercel  
+**Machine Learning:** TensorFlow, PyTorch, scikit-learn, OpenCV  
+
 
 ---
 
