@@ -15,7 +15,7 @@
 - 🎓 Year 2 **Applied AI** student @ Temasek Polytechnic  
 - 💡 Passionate about **AI, Sustainability & FinTech innovation**  
 - 🏆 **Director’s List**, **PolyFinTech100 Finalist**, Hackathon Participant  
-- 🌱 Currently building **Vogue Thrifts** (AWS-based sustainable fashion platform)  
+- 🌱 Currently building **Cycle Link** (A non-profit community onboarding platform)  
 - 🎯 Goal: Becoming an **AI Engineer/product manager** driving impact  
 
 ---
@@ -32,6 +32,8 @@
 ---
 
 ### 🚀 Featured Projects  
+- **[ClarityOne](https://github.com/yourusername/Smart-Wealth-Management-Tool)**
+  *A smart AI-Powered dashboard curated for High networth individuals*
 - 🛍 **[Vogue Thrifts](https://github.com/yourusername/vogue-thrifts)**  
   *Sustainable thrift platform | AWS Lambda, RDS, Cognito, Rekognition*  
 
